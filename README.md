@@ -46,5 +46,5 @@ Feel free to submit pull requests for improvements or additional features.
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Author
-[Kevin Gomez](https://github.com/yourusername)
+[Kevin Gomez](https://github.com/kevgom018)
 
